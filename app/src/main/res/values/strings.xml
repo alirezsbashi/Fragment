@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <string name="str_fragment">
+            What is Kotlin ?
+        \n\n\n
+            Kotlin is a statically-typed programming language for modern multi-platform applications.  Kotlin was developed by JetBrains, a company acclaimed for developing tools for professionals. The foremost goal of Kotlin is to provide a concise, productive and safer alternative to Java. The most common areas to use Kotlin are
+        \n\n
+            1-Building server-side code
+        \n\n
+            2-Building mobile applications that run on Android devices
+    </string>
+    <string name="show">Show</string>
+</resources>
